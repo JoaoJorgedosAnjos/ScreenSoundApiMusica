@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/bin/Debug/net8.0/ScreenSoundApiMusica
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/bin/Debug/net8.0/ScreenSoundApiMusica.deps.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/bin/Debug/net8.0/ScreenSoundApiMusica.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/bin/Debug/net8.0/ScreenSoundApiMusica.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/bin/Debug/net8.0/ScreenSoundApiMusica.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ScreenSoundApiMusica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ScreenSoundApiMusica.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ScreenSoundApiMusica.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ScreenSoundApiMusica.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ScreenSoundApiMusica.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/refint/ScreenSoundApiMusica.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ScreenSoundApiMusica.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ScreenSoundApiMusica.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ref/ScreenSoundApiMusica.dll
