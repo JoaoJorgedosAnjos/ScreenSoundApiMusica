@@ -12,3 +12,4 @@
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ScreenSoundApiMusica.pdb
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ScreenSoundApiMusica.genruntimeconfig.cache
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ref/ScreenSoundApiMusica.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/ScreenSoundApiMusica/obj/Debug/net8.0/ScreenSoundApiMusica.sourcelink.json
