@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScreenSoundApiMusica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78792f09167eb23e31a87249c7fb3ac2901bf544")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScreenSoundApiMusica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScreenSoundApiMusica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
